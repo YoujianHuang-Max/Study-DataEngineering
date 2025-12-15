@@ -7,13 +7,13 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
 
 # 2. ETL vs ELT
 
-# ETL (Extract → Transform → Load)
+## ETL (Extract → Transform → Load)
 - Data is transformed before loading into the data warehouse
 - Traditional approach
 - Transformation logic handled by data engineering pipelines
 - Use cases: Smaller datasets; Fixed schemas; Limited warehouse compute
 
-# ELT (Extract → Load → Transform)
+## ELT (Extract → Load → Transform)
 - Raw data is loaded first, then transformed inside the warehouse
 - Modern cloud-native approach
 - Heavy use of SQL and warehouse compute
