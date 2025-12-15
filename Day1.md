@@ -23,7 +23,7 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
   -A data pipeline is an automated process that moves data from source to destination in a repeatable and reliable way.
   -Typical flow: Source → Ingest → Transform → Store → Serve
   -Key characteristics: Automated; Monitored; Recoverable
-  -Tools: Airflow; 
+  -Tools: Airflow, Luigi, Prefect, Dagster
 
 # 4.Batch vs Streaming Processing
   Batch Processing
@@ -62,3 +62,4 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
 # References
 - GPT (ChatGPT AI)
 - YouTube: [Data Engineer vs Data Analyst](https://www.youtube.com/watch?v=_DGn-7134i0)
+- YouTube: [Data Engineer Overview](https://www.youtube.com/watch?v=tps1WbJA6_0)
