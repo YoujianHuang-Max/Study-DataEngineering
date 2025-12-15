@@ -52,7 +52,7 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
     -Modern architecture trend
 
 # 7.Big Picture View
-  # Sources → Data Engineering → Data Warehouse/Lake → Analytics & BI
+  ## Sources → Data Engineering → Data Warehouse/Lake → Analytics & BI
   -Data engineers focus on data movement, reliability, and scalability, enabling downstream analysis and decision-making.
 
 # 8.Summary
