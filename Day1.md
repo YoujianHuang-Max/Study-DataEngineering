@@ -55,7 +55,26 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
   ## Sources → Data Engineering → Data Warehouse/Lake → Analytics & BI
   -Data engineers focus on data movement, reliability, and scalability, enabling downstream analysis and decision-making.
 
-# 8.Summary
+# 8. What Problems Do Data Engineers Solve?
+- Ensure **data reliability**: accurate, clean, and available for analysis
+- Integrate **multiple data sources**: databases, APIs, logs, IoT devices
+- Handle **data scale and efficiency**: large-scale processing pipelines
+- Build **automated, repeatable pipelines** to reduce manual effort
+- Support analysts and data scientists by providing structured, usable data
+
+# 9. Data Engineer vs Data Analyst
+| Role             | Key Responsibilities                              | Tools / Skills                  |
+|-----------------|--------------------------------------------------|--------------------------------|
+| Data Engineer    | Build and maintain pipelines, manage storage & processing | Python, SQL, Airflow, dbt, Data Warehouses / Lakes |
+| Data Analyst     | Analyze data, generate insights and reports      | SQL, Excel, Tableau, Python/R  |
+
+**Boundary:** Data engineers focus on making data usable; data analysts focus on using the data to generate insights.
+
+# 10. Position in the Data Flow
+- **Data Engineer:** upstream/midstream, extracts, cleans, transforms, and loads data  
+- **Data Analyst / Scientist:** downstream, uses the prepared data for analysis and modeling  
+
+# 11.Summary
   -Data engineering is about designing and maintaining data pipelines using concepts like ETL/ELT, batch and streaming processing, 
    and modern data storage systems such as data warehouses and lakehouses. It ensures data is accessible, reliable, and scalable for analytical use.
 
