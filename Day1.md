@@ -58,3 +58,7 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
 # 8.Summary
   -Data engineering is about designing and maintaining data pipelines using concepts like ETL/ELT, batch and streaming processing, 
    and modern data storage systems such as data warehouses and lakehouses. It ensures data is accessible, reliable, and scalable for analytical use.
+
+# References
+- GPT (ChatGPT AI)
+- YouTube: [Data Engineer vs Data Analyst](https://www.youtube.com/watch?v=_DGn-7134i0)
