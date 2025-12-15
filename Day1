@@ -1,22 +1,23 @@
-# Day1
+# Day 1
 # Data Engineering – Core Concepts
 
-# 1.What is Data Engineering?
+## 1. What is Data Engineering?
 Data engineering focuses on building reliable, scalable data pipelines that move data from source systems into analytical platforms. 
 The goal is to ensure data is available, clean, and trustworthy so analysts and data scientists can focus on insights rather than data collection.
 
-# 2.ETL vs ELT
-  ETL (Extract → Transform → Load)
-  -Data is transformed before loading into the data warehouse
-  -Traditional approach
-  -Transformation logic handled by data engineering pipelines
-  Use cases: Smaller datasets; Fixed schemas; Limited warehouse compute
+## 2. ETL vs ELT
 
-  ELT (Extract → Load → Transform)
-  -Raw data is loaded first, then transformed inside the warehouse
-  -Modern cloud-native approach
-  -Heavy use of SQL and warehouse compute
-  Use cases: Large-scale data; Flexible analytics; Analysts involved in data modeling
+### ETL (Extract → Transform → Load)
+- Data is transformed before loading into the data warehouse
+- Traditional approach
+- Transformation logic handled by data engineering pipelines
+- Use cases: Smaller datasets; Fixed schemas; Limited warehouse compute
+
+### ELT (Extract → Load → Transform)
+- Raw data is loaded first, then transformed inside the warehouse
+- Modern cloud-native approach
+- Heavy use of SQL and warehouse compute
+- Use cases: Large-scale data; Flexible analytics; Analysts involved in data modeling
 
 # 3.Data Pipeline
   -A data pipeline is an automated process that moves data from source to destination in a repeatable and reliable way.
