@@ -43,13 +43,13 @@ The goal is to ensure data is available, clean, and trustworthy so analysts and 
 
 # 6.Data Lake & Lakehouse
   ## Data Lake
-    - Stores raw data in original format
-    - Supports structured and unstructured data
-    - Low storage cost
+  - Stores raw data in original format
+  - Supports structured and unstructured data
+  - Low storage cost
   ## Lakehouse
-    - Combines data lake storage with warehouse-style analytics
-    - Supports both raw data and structured querying
-    - Modern architecture trend
+  - Combines data lake storage with warehouse-style analytics
+  - Supports both raw data and structured querying
+  - Modern architecture trend
 
 # 7.Big Picture View
   ## Sources → Data Engineering → Data Warehouse/Lake → Analytics & BI
