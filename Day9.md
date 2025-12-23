@@ -42,3 +42,6 @@
 - File operations (`copy`, `move`) help understand the **data flow** in a data lake
 - `raw → staging → curated` is a standard pattern in data engineering pipelines
 - Day 9 focuses on **file management and structure**, not data cleaning or transformation
+
+<img width="1536" height="1024" alt="ChatGPT Image Dec 23, 2025, 02_41_08 PM" src="https://github.com/user-attachments/assets/99d49126-5dfe-4a9d-abf9-18a1ab688bc0" />
+
