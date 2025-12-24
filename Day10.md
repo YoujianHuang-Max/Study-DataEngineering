@@ -48,3 +48,4 @@
   - **Catalog** → Store metadata
   - **Job** → Perform ETL workflow
 - Local simulation helps understand Glue architecture and prepares for real ETL practice
+<img width="1536" height="1024" alt="ChatGPT Image Dec 24, 2025, 03_21_54 PM" src="https://github.com/user-attachments/assets/abd90f78-cc4c-49ac-8a26-dcd2e912cb50" />
